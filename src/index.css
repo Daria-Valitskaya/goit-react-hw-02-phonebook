@@ -10,6 +10,9 @@ body {
   background-color: #f2f2f2;
   background-size: cover;
   min-height: 100vh;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 code {
