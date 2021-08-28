@@ -3,6 +3,7 @@ import React, { Component } from "react";
 import ContactForm from "./Components/ContactForm/ContactForm";
 import ContactList from "./Components/ContactList/ContactList";
 import Filter from "./Components/Filter/Filter";
+import Section from "./Components/Section/Section";
 
 class App extends Component {
   state = {
@@ -51,14 +52,22 @@ class App extends Component {
 
     const filteredContactList = this.filteredVisibleContacts();
     return (
-      <>
-        <ContactForm onAddContact={this.onAddContact} />
-        <Filter value={filter} onChangeFilter={this.onChangeFilter} />
-        <ContactList
-          contacts={filteredContactList}
-          deleteContact={this.deleteContact}
-        />
-      </>
+      <div>
+        <Section>
+          <h1>Phonebook</h1>
+          <ContactForm onAddContact={this.onAddContact} />
+        </Section>
+        <Section>
+          <h2>My Contacts</h2>
+          <Filter value={filter} onChangeFilter={this.onChangeFilter} />
+        </Section>
+        <Section>
+          <ContactList
+            contacts={filteredContactList}
+            deleteContact={this.deleteContact}
+          />
+        </Section>
+      </div>
     );
   }
 }
