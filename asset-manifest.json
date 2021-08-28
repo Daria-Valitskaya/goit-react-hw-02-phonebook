@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook/static/css/main.a617e044.chunk.css",
-    "main.js": "/goit-react-hw-02-phonebook/static/js/main.a27da977.chunk.js",
-    "main.js.map": "/goit-react-hw-02-phonebook/static/js/main.a27da977.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-02-phonebook/static/js/runtime-main.89907be2.js",
-    "runtime-main.js.map": "/goit-react-hw-02-phonebook/static/js/runtime-main.89907be2.js.map",
-    "static/js/2.24e7169f.chunk.js": "/goit-react-hw-02-phonebook/static/js/2.24e7169f.chunk.js",
-    "static/js/2.24e7169f.chunk.js.map": "/goit-react-hw-02-phonebook/static/js/2.24e7169f.chunk.js.map",
-    "static/js/3.b5df3f24.chunk.js": "/goit-react-hw-02-phonebook/static/js/3.b5df3f24.chunk.js",
-    "static/js/3.b5df3f24.chunk.js.map": "/goit-react-hw-02-phonebook/static/js/3.b5df3f24.chunk.js.map",
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.5889702d.chunk.css",
+    "main.js": "/goit-react-hw-02-phonebook/static/js/main.45f26a46.chunk.js",
+    "main.js.map": "/goit-react-hw-02-phonebook/static/js/main.45f26a46.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02-phonebook/static/js/runtime-main.224e7803.js",
+    "runtime-main.js.map": "/goit-react-hw-02-phonebook/static/js/runtime-main.224e7803.js.map",
+    "static/js/2.792ecb3e.chunk.js": "/goit-react-hw-02-phonebook/static/js/2.792ecb3e.chunk.js",
+    "static/js/2.792ecb3e.chunk.js.map": "/goit-react-hw-02-phonebook/static/js/2.792ecb3e.chunk.js.map",
     "index.html": "/goit-react-hw-02-phonebook/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/goit-react-hw-02-phonebook/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.24e7169f.chunk.js.LICENSE.txt": "/goit-react-hw-02-phonebook/static/js/2.24e7169f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/goit-react-hw-02-phonebook/static/media/logo.6ce24c58.svg"
+    "static/css/main.5889702d.chunk.css.map": "/goit-react-hw-02-phonebook/static/css/main.5889702d.chunk.css.map",
+    "static/js/2.792ecb3e.chunk.js.LICENSE.txt": "/goit-react-hw-02-phonebook/static/js/2.792ecb3e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/goit-react-hw-02-phonebook/static/media/mstiteli-fil-m-ironman-oboi-2560x1080_14.79ef4451.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89907be2.js",
-    "static/js/2.24e7169f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.a27da977.chunk.js"
+    "static/js/runtime-main.224e7803.js",
+    "static/js/2.792ecb3e.chunk.js",
+    "static/css/main.5889702d.chunk.css",
+    "static/js/main.45f26a46.chunk.js"
   ]
 }
